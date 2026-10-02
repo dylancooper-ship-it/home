@@ -1,0 +1,5 @@
+# Artifact source fragment — not a standalone page, don't serve it
+artifact/
+
+# original logo files - source, not served
+brand/
